@@ -9,11 +9,11 @@
 
 <!-- Logo -->
 <a href="https://github.com/franckferman/Bikochu">
-  <img src="https://raw.githubusercontent.com/franckferman/Bikochu/stable/docs/github/graphical_resources/Logo-Without_background-Bikochu.png" alt="Bikochu Logo" width="auto" height="auto">
+  <img src="https://raw.githubusercontent.com/franckferman/Bikochu/main/docs/github/graphical_resources/Logo-Without_background-Bikochu.png" alt="Bikochu Logo" width="auto" height="auto">
 </a>
 
 <a href="https://github.com/franckferman/Bikochu">
-  <img src="https://raw.githubusercontent.com/franckferman/Bikochu/stable/docs/github/graphical_resources/Logo-Without_background-Bikochu_JP.png" alt="Bikochu Logo" width="auto" height="auto">
+  <img src="https://raw.githubusercontent.com/franckferman/Bikochu/main/docs/github/graphical_resources/Logo-Without_background-Bikochu_JP.png" alt="Bikochu Logo" width="auto" height="auto">
 </a>
 
 <!-- Title & Tagline -->
